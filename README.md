@@ -33,4 +33,14 @@ https://dbdiagram.io/d/65a40b27ac844320aee257e3
   + Danh sách phim người dùng đã chọn có thể có nhiều trang phim(1,2,3,4,5,...) khi click thì danh phim người dùng đã chọn thay đổi , Phim nổi bật của hạng mục đó sẽ không thay đổi
   + Phim nổi bật theo hạng mục sẽ ít hơn Phim nổi bật của trang web dùng button chuyển slide ảnh phim nổi bật
   + Khi click vào bất kì ảnh phim nào cũng đi tới trang chi tiết phim đó
+* Chi Tiết phim
+  + Nhấn Vào Xem Ngay sẽ chiếu bộ phim đó
+  + Với những bộ phim tập sẽ có hiện ra các button chọn tập để người dùng click vào
+  + Nhấn vào chia sẻ mở ra hộp thoại các nên tảng (Facebook,Ig,Zalo,..) người dung chia sẻ bộ phim
+  + Hiển Thị Tất cả Bình luận mở ra toàn bộ các bình luận về bộ phim
+  + Bìnn luận : người dùng sau khi nhập bình luận ấn Bình Luận gửi bình luận về bộ phim, ấn Hủy để hoàn tác lại nội dung bình luận ( trước khi ấn bình luận )
+* Danh Sách Blog
+  + Nhấn vào Tiêu đề cũng như mô tả về Blog sẽ đi tới trang chi tiết của Blog đó
+* Chi Tiết Blog
+  + Nhấn vào chia sẻ mở ra hộp thoại các nên tảng (Facebook,Ig,Zalo,..) người dung chia sẻ Blog
    
