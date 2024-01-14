@@ -18,3 +18,16 @@ https://dbdiagram.io/d/65a40b27ac844320aee257e3
    +  Click vào Thể Loại sẽ hiện 1 list thể loại cho người dùng lựa chọn
    +  Ấn vào Quốc Gia mở ra các quốc gia sản xuất phim mà trang web đang chiếu
    +  Nhấn Vào tin tức đưa tới trang tin tức của trang web
+* Năm Phát Hành  
+   +  Nhấn vào năm sẽ lọc ra list phim sản xuất theo năm đó
+* Tìm Kiếm  
+   +   Web trả về danh sách phim phù hợp tiêu chí tìm kiếm
+*  Đăng nhập
+   + Khi Click vào đăng nhập hoặc icon đăng nhập mở ra 1 hộp thoại đăng nhập
+   + Người dùng có thể đăng ký tại hộp thoại đăng nhập khi chưa có tài khoản
+* Trang Chủ
+  + Slide chiếu các ảnh phim HOT nhất
+  + Khi click vào bất kì ảnh phim nào cũng đi tới trang chi tiết phim đó
+  + Có danh sách Phim Nổi Bật, Phim Mới khi người dùng click Xem tất cả sẽ hiện ra toàn bộ danh sánh phim đó
+* 
+   
